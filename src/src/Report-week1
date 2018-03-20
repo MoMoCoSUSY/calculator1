@@ -1,0 +1,8 @@
+#Report week-1
+
+This week we mainly finished building the main structure of our calculator.
+We have finished the fundamental calculation part, including Arithmetic, Exponential computing, 
+    Logarithmic operations, Trigonometric functions and Conversion; Customized formula part and 
+    Function image visualization part. These three parts serve as the basic functions as a calculator.
+We have alse added some entertainment part, including Sudoku and Twenty-Four.
+    
